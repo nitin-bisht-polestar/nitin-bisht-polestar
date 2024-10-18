@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nitin-bisht-polestar" target="blank">
 Nitin</a></h1>
-<h3 align="center">A Software developer from India &#127470;&#127475</h3>
+<h3 align="center">Software Development Engineer &#127470;&#127475</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Lives-India-success" />
